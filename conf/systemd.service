@@ -1,5 +1,5 @@
 [Unit]
-Description=do•doc: documentation tool for creativity
+Description=TeXlyre
 After=network.target
 
 [Service]
